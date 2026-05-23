@@ -12,4 +12,4 @@ A simple calculator built using Python.
 - Python
 ## 📸 Project Preview
 
-![Calculator Screenshot]Screenshot 2026-05-23 160106.png
+![Calculator Screenshot](Screenshot 2026-05-23 160106.png)
