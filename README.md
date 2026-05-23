@@ -10,3 +10,6 @@ A simple calculator built using Python.
 
 ## Technologies Used
 - Python
+## 📸 Project Preview
+
+![Calculator Screenshot](your-image-name.png)
